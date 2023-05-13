@@ -1,7 +1,5 @@
-alert("Hey!")
-alert("Just wanna know you are doing just fine.")
-alert("Don't Overthink it!")
-alert("You deserve this gift!")
+alert("Happy Mother's Day Mama Cherry!")
+alert("from: Your family")
 onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
