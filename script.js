@@ -1,5 +1,5 @@
-alert("Happy Mother's Day Mama Cherry!")
-alert("from: Your family")
+alert("Hellow Maryen")
+alert("ito flowers")
 onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
