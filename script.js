@@ -1,4 +1,7 @@
-alert("Hellow Maryen")
+alert("I know lisud")
+alert("pero laban ugma")
+alert("good luck poh!")
+alert("future cadet officer1")
 alert("ito flowers")
 onload = () => {
   const c = setTimeout(() => {
