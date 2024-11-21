@@ -1,8 +1,4 @@
-alert("I know lisud")
-alert("pero laban ugma")
-alert("good luck poh!")
-alert("future cadet officer1")
-alert("ito flowers")
+alert("Get well soon!")
 onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
